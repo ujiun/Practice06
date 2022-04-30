@@ -49,7 +49,6 @@ public class User {
 	}
 	
 	public void showInfo() {
-		
 	}
 
 }
