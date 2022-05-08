@@ -2,7 +2,7 @@ package com.javaex.ex02;
 
 public class Triangle extends Shape{
 	//필드
-	private int width;
+	private int width; 
 	private int heigh;
 	
 	//생성자
